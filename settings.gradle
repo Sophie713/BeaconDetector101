@@ -1,0 +1,1 @@
+include ':app', ':beaconinside-sdk-2.12.1'
